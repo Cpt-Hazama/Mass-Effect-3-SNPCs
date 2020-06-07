@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/cpthazama/masseffect3/banshee/banshee"
+	$bumpmap "models/cpthazama/masseffect3/banshee/banshee_n"
+	$halflambert 1
+	
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongexponenttexture" "models/cpthazama/masseffect3/banshee/banshee_s"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$phongtint" "[0.01 0.01 0.01]"
+}

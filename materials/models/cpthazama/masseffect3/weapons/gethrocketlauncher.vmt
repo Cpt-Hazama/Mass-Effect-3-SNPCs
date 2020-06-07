@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/cpthazama/masseffect3/weapons/gethrocketlauncher"
+	$bumpmap "models/cpthazama/masseffect3/weapons/gethrocketlauncher_n"
+	$halflambert 1
+	$model 1
+
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongexponenttexture" "models/cpthazama/masseffect3/weapons/gethrocketlauncher_s"
+	"$phongboost" "7"
+	"$phongfresnelranges" "[0.3 0.7 1.5]"
+	"$phongtint" "[.8 1 1]"
+
+	"$nocull" "1"
+}

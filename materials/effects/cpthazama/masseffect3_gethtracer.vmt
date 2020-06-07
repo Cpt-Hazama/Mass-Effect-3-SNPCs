@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/cpthazama/masseffect3_gethtracer"
+	"$additive" 1
+}
